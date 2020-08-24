@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Department: 测试
 # @Author: 杨凤娇
-# @Description:
+# @Description: 读取excel文件内容
 import xlrd
 
 xl = xlrd.open_workbook("C:/Users/10283/Desktop/各学科调查表/产科专科情况调查表.xlsx")
